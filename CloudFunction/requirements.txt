@@ -1,0 +1,5 @@
+google-api-python-client
+google-cloud-pubsub
+flask
+requests
+markupsafe
