@@ -1,5 +1,7 @@
 # Youtube Content Optimize
 
+![YoutubeLogo](youtube.png)
+
 ## Project Overview
 
 YouTube has become a dominant platform for content consumption, yet creators and marketing teams often lack visibility into what drives true engagement and subscriber growth. Our goal was to build a scalable, real-time analytics solution that answers key questions like:
