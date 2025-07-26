@@ -55,6 +55,7 @@ Derived metrics include:
 ## Dashboard Demo
 
 ![Dashboard](dashboard.jpg)
+
 Users can explore:
 - Top viewed channels and their engagement trends
 - Category-wise performance summaries
