@@ -10,7 +10,6 @@ YouTube has become a dominant platform for content consumption, yet creators and
 
 This project combines data engineering, machine learning, and visualization into one seamless experience using a modern web interface.
 
----
 
 ## Methodology
 
@@ -35,7 +34,6 @@ Derived metrics include:
 - `upload_frequency`
 - `subscriber_per_upload`
 
----
 
 ## Deliverables & Features
 
@@ -53,7 +51,6 @@ Derived metrics include:
 - Cluster videos by performance profiles
 - Visualize trends and key drivers of engagement
 
---
 
 ## Dashboard Demo
 
@@ -124,7 +121,6 @@ The Vite configuration is in `vite.config.js`. You can modify:
 - Source maps
 - Plugin configurations
 
----
 
 ## Modeling Results
 
@@ -138,7 +134,6 @@ The Vite configuration is in `vite.config.js`. You can modify:
   - **Cluster 1**: Newer, fast-growing channels with frequent uploads
   - **Cluster 0**: Stable performers with long-form content
 
----
 
 ## Insights & Takeaways
 
@@ -156,19 +151,3 @@ The Vite configuration is in `vite.config.js`. You can modify:
 - **For Creators**: Know what to improve and where to invest
 - **For Brands**: Benchmark sponsored content, optimize campaign timing
 - **For Analysts**: A flexible framework for scalable content intelligence
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
